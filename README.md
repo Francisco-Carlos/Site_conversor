@@ -1,6 +1,6 @@
 <h1 align="center">Site de conversão</h1>
-<p align='center'>Site para converter CSV em Excel e Excel em CSV</p>
-<p aling="center"> <img src="https://img.shields.io/static/v1?label=Python&message=3.10&color=7159c1&style=for-the-badge&logo=ghost"/>
+<p align="center">Site para converter CSV em Excel e Excel em CSV</p>
+<p align="center"> <img src="https://img.shields.io/static/v1?label=Python&message=3.10&color=7159c1&style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/static/v1?label=Pandas&message=1.5.2&color=7159c1&style=for-the-badge&logo=ghost"/> </p>
 
 <p align="center">
@@ -8,7 +8,6 @@
  <a href="#Funcionamento">Como fuciona </a>  --
  <a href="#Imagens">Imagens </a>  --
  <a href="#Codigos">Codigos </a>  --
- <a href="#tecnologia">Tecnologia </a> --
 </p>
 <h4 align="center"> 
 	 Python 🚀 Concluido...  
@@ -20,7 +19,7 @@ e nao tiver nem um modo de fazer isso utilizando programas pode usar o site que 
 
 
 
-<h2 align="center" id="#Funcionamento"> Funcionamento </h2>
+<h2 align="center" id="Funcionamento"> Funcionamento </h2>
 <p> E simples você escolhe o arquivo que para converter escolhe a extenção que ele vai sair, utilizando o pandas ele vai converter
 depois desse processo vai ser feito o dawload do arquivo com o formato desejado.
 
